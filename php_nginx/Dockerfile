@@ -4,7 +4,6 @@ LABEL maintainer="Ghoct <ghoct@ghoct.com>"
 
 ENV NGINX_VERSION 1.15.10
 ENV TNS_ADMIN=/opt/oracle_client/instantclient_11_2
-ENV NLS_LANG=SIMPLIFTED_CHINESE_CHINA_ZHS16GBK
 ENV LD_LIBRARY_PATH=/opt/oracle_client/instantclient_11_2
 ENV ORACLE_HOME=/opt/oracle_client/instantclient_11_2
 
